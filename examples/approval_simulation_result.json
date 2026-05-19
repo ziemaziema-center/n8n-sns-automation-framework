@@ -1,0 +1,15 @@
+[
+  {
+    "content_id": "demo_reel_001",
+    "decision": "approved_for_stub_publish",
+    "publisher": "disabled_stub"
+  },
+  {
+    "content_id": "demo_reel_002",
+    "decision": "rejected"
+  },
+  {
+    "content_id": "demo_reel_001",
+    "decision": "duplicate_ignored"
+  }
+]

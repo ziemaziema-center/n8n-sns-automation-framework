@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials/
+secrets/
+logs/
+exports/
+node_modules/
+__pycache__/
+.pytest_cache/
+.DS_Store
+dist/
+build/

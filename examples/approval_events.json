@@ -1,0 +1,20 @@
+[
+  {
+    "content_id": "demo_reel_001",
+    "event": "approve",
+    "approver": "fixture_operator",
+    "media_hash": "fixture-media-001"
+  },
+  {
+    "content_id": "demo_reel_002",
+    "event": "reject",
+    "approver": "fixture_operator",
+    "media_hash": "fixture-media-002"
+  },
+  {
+    "content_id": "demo_reel_001",
+    "event": "approve",
+    "approver": "fixture_operator",
+    "media_hash": "fixture-media-001"
+  }
+]

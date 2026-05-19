@@ -1,0 +1,32 @@
+{
+  "name": "clean_01_generator_PUBLIC_PLACEHOLDER",
+  "nodes": [
+    {
+      "name": "Generate Candidate",
+      "type": "code",
+      "credentials": null
+    },
+    {
+      "name": "Send Telegram Preview",
+      "type": "telegram",
+      "credentials": "REPLACE_ME"
+    },
+    {
+      "name": "Approval Gate",
+      "type": "switch",
+      "credentials": null
+    },
+    {
+      "name": "FFmpeg Render Stub",
+      "type": "executeCommand",
+      "disabled": true
+    },
+    {
+      "name": "Publish Stub",
+      "type": "httpRequest",
+      "disabled": true
+    }
+  ],
+  "active": false,
+  "notes": "Public placeholder only. Do not include real credential IDs or private webhook URLs."
+}

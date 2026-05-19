@@ -1,0 +1,7 @@
+{
+  "job_id": "render_demo_001",
+  "input_fixture": "fixtures/input.png",
+  "audio_fixture": "fixtures/audio.wav",
+  "output": "dist/demo_reel.mp4",
+  "dry_run": true
+}

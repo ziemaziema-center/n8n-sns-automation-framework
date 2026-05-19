@@ -1,0 +1,14 @@
+{
+  "name": "clean_01_generator_template",
+  "active": false,
+  "nodes": [
+    {
+      "name": "Generate Candidate",
+      "credentials": null
+    },
+    {
+      "name": "Dedupe Candidate",
+      "credentials": null
+    }
+  ]
+}

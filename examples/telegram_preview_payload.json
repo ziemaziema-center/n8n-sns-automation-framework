@@ -1,0 +1,13 @@
+{
+  "content_id": "demo_reel_001",
+  "hook": "Fake preview hook",
+  "risk_flags": [
+    "no_real_credentials",
+    "dry_run"
+  ],
+  "buttons": [
+    "approve_reel",
+    "delete_test"
+  ],
+  "chat_id": "REPLACE_ME"
+}
